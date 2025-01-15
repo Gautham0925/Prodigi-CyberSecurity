@@ -52,7 +52,7 @@ Warning:
 
 The Caesar Cipher is a very basic encryption technique and should not be used for securing sensitive information. It is educational in nature and vulnerable to simple cryptanalysis.
 -------------------------------------------------------------------------Sources:--------------------------------------------------------------
-GitHub: https://github.com/dhairya-gayakwad/Prodigy-InfoTech
+GitHub
 Google
 
 2. Image Encryption and Decryption Program
@@ -74,7 +74,7 @@ Warning:
 Image encryption using XOR is not secure for protecting sensitive data. XOR encryption is easily reversible and should only be used for educational purposes. It does not provide adequate protection for real-world scenarios.
 Sources:
 
-GitHub: https://github.com/dhairya-gayakwad/Prodigy-InfoTech
+GitHub
 Google
 3. Password Strength Checking Tool
 Description: This tool evaluates the strength of a password by checking several criteria and provides suggestions for improvement.
@@ -94,7 +94,7 @@ Warning:
 This tool is not foolproof and may not catch all weak passwords. It should not be relied upon as the sole security measure for password protection.
 Sources:
 
-GitHub: https://github.com/dhairya-gayakwad/Prodigy-InfoTech
+GitHub
 Google
 4. Keylogger Program
 Disclaimer: This program is designed for educational purposes and should only be used with explicit permission on systems you own or have consent to monitor.
@@ -115,7 +115,7 @@ Important Warning:
 This program can capture sensitive data such as passwords. It should be used responsibly and only in ethical, legal environments. Unauthorized use can violate privacy laws and result in severe legal consequences.
 Sources:
 
-GitHub: https://github.com/dhairya-gayakwad/Prodigy-InfoTech
+GitHub
 Google
 5. Packet Sniffer Tool
 Description: Captures network packets based on specified protocols (TCP, UDP, or both). Displays and saves packet details in a text file. Allows for graphical analysis of captured data.
@@ -135,7 +135,7 @@ Warning:
 
 This tool can capture sensitive network data, including passwords and other confidential information. Ensure you have explicit permission to capture packets on the network you are monitoring. Unauthorized packet sniffing can be illegal.
 ---------------------------------------------------------------------Sources:-----------------------------------------------------------
-GitHub: https://github.com/dhairya-gayakwad/Prodigy-InfoTech
+GitHub
 Google
 
 
