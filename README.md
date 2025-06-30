@@ -1,6 +1,6 @@
-======================================================================
+
                          README.txt
-======================================================================
+
 
 Welcome to the collection of security-related tools. This suite contains 
 several Python programs for encryption, password strength checking, 
